@@ -1,7 +1,9 @@
 worldcup-scraper
 ================
 
-Scraper for getting live World Cup data
+Scraper for obtaining live World Cup data. Use at your own risk.
+
+Data sourced from [http://www.livescore.com/worldcup/](http://www.livescore.com/worldcup/)
 
 ## Installation
 

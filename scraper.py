@@ -6,6 +6,9 @@ from bs4 import BeautifulSoup
 import requests
 
 
+__version__ = '0.0.1'
+
+
 def scrape():
     html = requests.get('http://www.livescore.com/worldcup/').content
     soup = BeautifulSoup(html)

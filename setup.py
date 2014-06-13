@@ -10,5 +10,5 @@ setup(
     author="@LoisaidaSam",
     author_email="sam.sandberg@gmail.com",
     packages=["scraper"],
-    install_requires=["requests","bs4"],
+    install_requires=["requests","beatuifulsoup4"],
 )
